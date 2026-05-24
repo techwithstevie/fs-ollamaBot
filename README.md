@@ -1,4 +1,6 @@
-# FireSafe Solutions API - Complete Beginner's Guide
+# FireSafe Solutions Chatbot - Full-Stack AI Application
+
+![FireSafe Solutions App](app.png)
 
 Welcome! This guide will teach you how to build a chatbot API from scratch. By the end, you'll have a working AI assistant that can answer questions about fire safety and FireSafe Solutions services.
 
